@@ -2,7 +2,7 @@
 
 **Nome do aluno:** Laís ramos Messias
 
-## Descrição do portfólio
+## Descrição do **portfólio**
 
 Portfólio pessoal desenvolvido para apresentar meu perfil, tecnologias e ferramentas, projetos realizados durante a formação e formas de contato. O site contém menu de navegação, área de destaque (carousel), seção de perfil, apresentação de três projetos, área de contato e rodapé.
 
@@ -15,7 +15,7 @@ Portfólio pessoal desenvolvido para apresentar meu perfil, tecnologias e ferram
 
 ## Link do site publicado
 
-
+https://laismess.github.io/portfolio_pessoal/
 
 ## Funcionamento do projeto
 
